@@ -7,5 +7,5 @@ During clicks, your mouse will not be usable. Use with caution ;)
 
 ##Releases
 * _12/22/2015_
-  * A dialog box ask the time.
+  * A dialog box ask the time to click.
   * Autoclicker use the mouse coordinates as location.
