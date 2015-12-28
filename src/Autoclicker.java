@@ -2,7 +2,7 @@
 	Author: Arnaud Panapadéatchy
 	GitHub: ArnaudPan
 	Website: http://ar-pa.esy.es
-	Version: 1.0
+	Version: 1.1
 */
 
 import java.awt.AWTException;
