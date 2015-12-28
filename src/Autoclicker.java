@@ -55,7 +55,7 @@ public class Autoclicker extends JFrame implements MouseListener {
 	    textField = new JTextField(5);
 	    pan.add(textField);
 	    
-	    valid = new JButton("Envoyer");
+	    valid = new JButton("Valider");
 	    pan.add(valid);
 		valid.addMouseListener(this);
 	    
