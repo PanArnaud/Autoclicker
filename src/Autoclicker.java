@@ -35,7 +35,7 @@ public class Autoclicker extends JFrame implements MouseListener {
 	}
 	
 	public Autoclicker(){
-		this.setTitle("Ma fenêtre");
+		this.setTitle("Autoclicker");
 	    this.setSize(270, 100);
 	    this.setLocationRelativeTo(null);
 	    this.setResizable(false);
